@@ -3,16 +3,17 @@
 Music Timer is an Android application designed to combine the utility of timers and alarms with the motivational power of music. Whether you're studying, working out, focusing on a task, or managing your day, Music Timer helps you stay on track with personalized music playback.
 
 ## Screenshots
-### Timers Playing
+**Timers Playing**
 <div style="display: flex; justify-content: space-around; width: 100%; flex-wrap: nowrap;">
   <img src="assets/interval_timer_playing.jpg" alt="Interval Timer Playing Flow" style="flex: 1; width: 23%; height: auto;">
   <img src="assets/interval_timer_playing_modal.jpg" alt="Interval Timer Playing Modal" style="flex: 1; width: 23%; height: auto;">
   <img src="assets/interval_timer_playing_break_2.jpg" alt="Interval Timer Playing Break" style="flex: 1; width: 23%; height: auto;">
   <img src="assets/standard_timer_playing.jpg" alt="Standard Timer Playing" style="flex: 1; width: 23%; height: auto;">
 </div>
-(1) Interval timer flow interval (2) Playing timer options (3) Interval timer break interval (4) Standard timer
+(1) Interval timer flow interval (2) Playing timer options (3) Interval timer break interval (4) Standard timer 
+<br> <br>
 
-### Timer Entry and Other Display
+**Timer Entry and Other Display**
 <div style="display: flex; justify-content: space-around; width: 100%; flex-wrap: nowrap;">
   <img src="assets/interval_entry_show_playlists.jpg" alt="Interval Timer Entry" style="flex: 1; width: 23%; height: auto;">
   <img src="assets/quick_timer_entry.jpg" alt="Quick Timer Entry" style="flex: 1; width: 23%; height: auto;">
@@ -23,7 +24,7 @@ Music Timer is an Android application designed to combine the utility of timers 
 
 ## Features
 
-### (1) Create Timers and Alarms
+### (1) Create Timers and Alarms 
 
 - Customize timers for specific durations or set alarms to play your favorite tracks.
 
