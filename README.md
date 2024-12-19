@@ -13,7 +13,7 @@ Music Timer is an Android application designed to combine the utility of timers 
 (1) Interval timer flow interval (2) Playing timer options (3) Interval timer break interval (4) Standard timer 
 <br> <br>
 
-**Timer Entry and Other Display**
+**Timer Entry and Other Displays**
 <div style="display: flex; justify-content: space-around; width: 100%; flex-wrap: nowrap;">
   <img src="assets/interval_entry_show_playlists.jpg" alt="Interval Timer Entry" style="flex: 1; width: 23%; height: auto;">
   <img src="assets/quick_timer_entry.jpg" alt="Quick Timer Entry" style="flex: 1; width: 23%; height: auto;">
