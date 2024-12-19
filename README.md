@@ -2,6 +2,8 @@
 
 Music Timer is an Android application designed to combine the utility of timers and alarms with the motivational power of music. Whether you're studying, working out, focusing on a task, or managing your day, Music Timer helps you stay on track with personalized music playback.
 
+*Note: This is an ongoing project*
+
 ## Screenshots
 **Timers Playing**
 <div style="display: flex; justify-content: space-around; width: 100%; flex-wrap: nowrap;">
